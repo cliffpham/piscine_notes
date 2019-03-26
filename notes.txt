@@ -1,0 +1,26 @@
+06, 07
+
+# create file
+vim git_commit.sh
+
+#add content
+
+#!/bin/bash
+
+git log --pretty=oneline -n 5
+
+#make file executable
+chmod +x git_commit.sh
+
+
+08
+diff and patch
+
+
+09
+find directory_name -type f \(-name '[#]*[#]' -o -name '[~]'\)
+
+or 
+
+#example
+find . '(' -name 'a*' -o -name 'z*' ')' -a '(' -name '*a' -o -name '*z' ')'
