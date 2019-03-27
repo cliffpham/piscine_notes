@@ -1,0 +1,6 @@
+Credentials cache: API:53100
+        Principal: cpham@42.US.ORG
+
+  Issued                Expires               Principal
+Mar 25 13:12:13 2019  Mar 25 23:12:13 2019  krbtgt/42.US.ORG@42.US.ORG
+Mar 25 13:15:11 2019  Mar 25 23:12:13 2019  host/vgs-fn1.42.us.org@42.US.ORG
